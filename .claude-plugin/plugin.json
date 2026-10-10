@@ -1,0 +1,6 @@
+{
+  "name": "claude-meter",
+  "version": "0.1.0",
+  "description": "入力欄の上に、5時間/7日間の使用率とセッションのトークン量を表示する Claude Code のバー",
+  "types": "./types/index.d.ts"
+}
